@@ -14,7 +14,7 @@ I am a software engineer with more than 6 years of experience in designing, deve
 ### Education
 - 2011—2015 BA in Computer Science, National Technical University of Ukraine 'Kyiv Polytechnic  Institute', FICT
 - July 2014 - Data Science summer school, Kyiv Polytechnic  Institute
-- Courses on edX and Coursera:  [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x), [Model Thinking](https://coursera.org/learn/model-thinking),  [Algroithms, Part 1](https://coursera.org/learn/algorithms-part1)
+
 ### Languages
 - English – C1(TOEFL score 93 out of 120, passed in 2015)
 - German - B1
@@ -23,22 +23,17 @@ I am a software engineer with more than 6 years of experience in designing, deve
 - C#: LINQ, async/await, .NET 5
 - AWS: S3, SQS, EC2, Auto Scaling groups, CodeDeploy
 - Microsoft Azure Services: Cosmos DB, Service Bus, Table Storage, Blobs, Azure Functions
-- Git, TeamCity, Github, Jira, Confluence
+- Git, TeamCity, Github
 - MongoDB, RabbitMQ, Redis
 - Mentoring newcomers: code review, guiding through project architecture and involved technologies
-- Virtualization: VMware vSphere, Hyper-V
-- Powershell, WMI
-- Python, Pandas
+- Python, Pandas, QGIS
 
 ### Level of competence
 - C# – 6 years of experience of commercial development, 8 years of experience overall
-- ASP.NET Core Web API – worked on parts of projects where ASP.NET were used, fixed bugs and
-implemented some small features
-- Microsoft Azure Services – worked on a project, which was massively reliant on Azure Services, used Azure for pet-projects
-- Python – used for a pet-projects(web-scrapping, data-science, telegram bots), mostly as a scripting language
-- Microservice architecture – worked on a project with a microservice architecture
-- Powershell – used to automate recurrent tasks on a workplace and for writing prototypes for new
-features because of great integration with a Windows Management Instrumentation
+- ASP.NET Core – designed, developed and maintained APIs solutions
+- AWS - worked on a project built on AWS, managed resources, built CI\CD pipelines
+- Python, QGIS – used for a pet-projects(web-scrapping, data-science, telegram bots)
+
 
 ### Projects
 - June 2015 - April 2018 **Rapid Recovery on-premise backup solution**
@@ -58,8 +53,7 @@ amounts of data.
 
 - August 2019 - November 2019 **Advisor360** I was working on a project, main goal of which is to connect financial advisors with their customers to maximize incomes from their investments. As a part of a team, I am responsible for the process of product transition from single to multiple clients.
 
-- November 2019 - till now **PublicNow** 
-
+- November 2019 - till now **PublicNow** I was working on a system which monitors companies news and press releases, extracts data from them and delivers to customers as quick as possible. I was working on multiple sevices and apps which gathered, analyzed, categorized, normalized and distributed data and was responsible for TF to Git and CI/CD transition.
 
 
 
